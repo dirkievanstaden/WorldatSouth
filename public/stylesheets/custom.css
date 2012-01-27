@@ -1,0 +1,239 @@
+.container {
+  width: 867px;
+  overflow: hidden;
+}
+
+body {
+    background-image: url(../images/backw.jpg);
+    background-position:top center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+
+header {
+}
+
+header img {
+  background:  #FFFFFF;
+  -moz-border-radius:    10px;
+  -webkit-border-radius: 10px;
+  border-radius:         10px;  
+}
+
+section {
+  margin-top: 1em;
+  font-size: 100%;
+  padding: 20px;
+  color: #303030;
+  background:  #FFFFFF;  
+}
+
+smr{
+  color: #303030;
+  font-size: 120%;
+  font-weight: bold;
+  background:  #FFFFFF;
+}
+
+smrCntr{
+  color: #303030;
+  font-size: 120%;
+  font-weight: bold;
+  background:  #FFFFFF;
+  position: relative;
+  left: 90px;
+}
+
+
+smrCntr2{
+  color: #303030;
+  font-size: 120%;
+  font-weight: bold;
+  background:  #FFFFFF;
+  position: relative;
+  left: 223px;
+}
+
+rght{
+  width: 290px;
+  float: right;
+  color: #303030;
+  font-size: 120%;
+  background:  #FFFFFF;
+}
+
+fb {
+  float: left;
+  color: #303030;
+  background: white;
+}
+
+like {
+  position: relative;
+  left: 173px;
+}
+
+tw {
+  float: right;
+  color: #303030;  
+  background:  #FFFFFF;
+}
+
+yt {
+  position: relative;
+  left: 12px;
+  font-size: 120%;
+  background:  #FFFFFF;
+}
+
+ph {
+  position: relative;
+  left: 12px;
+  font-size: 50;
+  background:  #FFFFFF;
+}
+
+mail {
+  position: relative;
+  left: 133px;
+  background:  #FFFFFF;
+}
+
+sc {
+  color: #303030;
+  font-size: 140%;
+  background: #FFFFFF;
+}
+
+comments{
+  position: relative;
+  left: 218px;
+  background: #FFFFFF;
+}
+
+comments2{
+  position: relative;
+  right: 0px;
+  background: #FFFFFF;
+}
+
+section h1 {
+  font-size: 200%;
+}
+
+poster {
+   position: relative;
+   left: 110px;
+   font-size: 130%;
+}
+
+bc {
+   position: relative;
+   left: 38px;
+}
+
+h2 {
+   font-size: 300%;
+   position: relative;
+   left: 355px;
+}
+
+h3 {
+   font-size: 300%;
+   position: relative;
+   left: 310px;
+}
+
+h4 {
+   position: relative;
+   left: 321px;
+}
+
+squarelogo {
+  float: left;  
+  float: top;
+}
+
+roundlogo {
+  float: right;  
+  float: top;
+}
+
+/* Links */
+
+a {
+  color: #0072BC;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0072BC;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #0072BC;
+}
+
+/* Navigation */
+
+nav {
+  background-color:  #FFFFFF;
+  padding: 0 0.7em;
+  white-space: nowrap;  
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  font-size: 129%;
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0.2em 0;
+  position: relative;
+  top: 3px;
+}
+
+nav ul li a {
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* footer */
+
+footer {
+  text-align: left;
+  width: 867px;
+  margin-left: auto;
+  margin-right: auto;  
+  padding-bottom: 9px;
+}
+
+footer nav {
+  position: relative;
+  right: 6px;
+  float: none;
+}
+
+footer nav ul a {
+  float: none;
+  padding: 0 0.5em;
+}
+
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
+}
